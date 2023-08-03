@@ -1,6 +1,5 @@
-# MLDM_HWs
-MLDM Homeworks for student Fares Ghazzawi (2022 -2023) 
-This repo contains my solutions for my homework assignments for the course MLDM 2022-2023.
+# MLDM_HWs 
+Machine Learning and Data Mining Projects (2022-2023).
 This repo demonstrates multiple Machine Learning and Data Mining Techniques including:
 1. Data Handling and Data Manipulation 
 2. Applying Linear Regression under multiple sets.
@@ -12,4 +11,6 @@ This repo demonstrates multiple Machine Learning and Data Mining Techniques incl
 8. Traning Neural Network Transformer-based model for images classification task.
 9. Dog breed Identification using Transfer Learning and CNN Auto Encoders on [dataset](https://www.kaggle.com/competitions/dog-breed-identification/data).
 
-Skills developed: pandas | scikit-learn | matplotlib | numpy | Regression | Classifications | Data Processing | Feature engineering | Regularization | Quality metrics | hyperparameter optimization | Decision Trees | Ensmbles Learning | NN | pytorch |
+Skills developed: pandas | scikit-learn | matplotlib | numpy | Regression | Classifications | Data Processing | Feature engineering | Regularization | Quality metrics | hyperparameter optimization | Decision Trees | Ensmbles Learning | Neural Networks | pytorch | python.
+
+This repo is part of the course MLDM, HSE, Moscow, Russia.
