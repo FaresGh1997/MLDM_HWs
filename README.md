@@ -12,6 +12,7 @@ This repo demonstrates multiple Machine Learning and Data Mining Techniques incl
 8. Traning Neural Network Transformer-based model for images classification task.
 9. Dog breed Identification using Transfer Learning and CNN Auto Encoders on [dataset](https://www.kaggle.com/competitions/dog-breed-identification/data).
 
+##### 
 Skills developed: pandas | scikit-learn | matplotlib | numpy | Regression | Classifications | Data Processing | Feature engineering | Regularization | Quality metrics | hyperparameter optimization | Decision Trees | Ensmbles Learning | Neural Networks | pytorch | python.
 
 This repo is part of the MLDM course, HSE, Moscow, Russia.
