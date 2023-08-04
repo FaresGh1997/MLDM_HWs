@@ -14,4 +14,4 @@ This repo demonstrates multiple Machine Learning and Data Mining Techniques incl
 
 Skills developed: pandas | scikit-learn | matplotlib | numpy | Regression | Classifications | Data Processing | Feature engineering | Regularization | Quality metrics | hyperparameter optimization | Decision Trees | Ensmbles Learning | Neural Networks | pytorch | python.
 
-This repo is part of the course MLDM, HSE, Moscow, Russia.
+This repo is part of the MLDM course, HSE, Moscow, Russia.
